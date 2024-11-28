@@ -29,7 +29,7 @@ export class ProductService {
           name: 'Tablet',
           description: 'Samsung Tablet Galaxy S9 Ultra 12inch HD Screen 8800mah 16+512GB ROM Android 12 dual sim Wifi/5G COD',
           price: 49.99,
-          image: 'shoes.jpg'
+          image: 'tablet.jpg'
         },
         {
           name: 'headphone',
